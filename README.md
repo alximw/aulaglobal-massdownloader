@@ -13,7 +13,7 @@ This script uses the following external libraries:
   3. <b>Unidecode</b>, from iki --> https://github.com/iki/unidecode
   
 <h2>Installation</h2>
-<b>Pip</b> Python package manager is needed in order to deploy and link the references. You can obtain it from https://pypi.python.org/pypi/pip or by means of <b>apt-get</b> if using Ubuntu-based systems.
+<b>Pip</b> Python package manager is needed in order to deploy and link the references. You can obtain it from https://pypi.python.org/pypi/pip or by means of <b>apt-get</b> if using Debian-based systems.
 
 After that, it is enough to run python over the setup file.
 
