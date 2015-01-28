@@ -2,7 +2,7 @@ __author__ = "Jorge Rodriguez Canseco"
 __version__ = "1.0b"
 
 
-import include.requests, getpass, os, include.bs4, include.unidecode, time
+import requests, getpass, os, bs4, unidecode, time
 
 _DOCFILE_BASE_STRING = "https://aulaglobal.uc3m.es/mod/resource/view.php?id="
 _DOCFILE_BASE_TAG_NAME = '<span class="instancename">'
