@@ -1,8 +1,8 @@
 # aulaglobal2-massdownloader
-Tiny Python script for automatic download of files hosted in UC3M Moodle web portal AulaGlobal2.
+Tiny Python script for automatic download of files hosted in UC3M Moodle web portal AulaGlobal2
 
 <h2>Version</h2>
-1.0
+1.0b
 
 <h2>Dependencies</h2>
 
