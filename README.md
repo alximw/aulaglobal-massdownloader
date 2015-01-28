@@ -9,5 +9,5 @@ Tiny Python script for automatic download of files hosted in UC3M Moodle web por
 This script uses the following external libraries:
 
   1. <b>Requests</b>, from kennethreitz --> https://github.com/kennethreitz/requests
-  2. Beautiful Soup, from kelp404 --> https://github.com/kelp404/bs4
-  3. Unidecode, from iki --> https://github.com/iki/unidecode
+  2. <b>Beautiful Soup</b>, from kelp404 --> https://github.com/kelp404/bs4
+  3. <b>Unidecode</b>, from iki --> https://github.com/iki/unidecode
