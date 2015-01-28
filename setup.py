@@ -2,8 +2,8 @@ from setuptools import setup
 
 
 setup(
-    name = 'aulaglobal2-massdownloader',
-    packages = ['aulaglobal2-massdownloader'],
+    name = 'aulaglobal-massdownloader',
+    packages = ['aulaglobal-massdownloader'],
     version = '1.0',
     description = 'Tiny Python script for automatic download of files hosted in UC3M Moodle web portal AulaGlobal2.',
     author='Jorge R. Canseco',
